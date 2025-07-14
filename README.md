@@ -25,18 +25,3 @@
 <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/melba-contessi-08/melba-contessi-08/output/snake.svg" alt="Snake animation" />
-
-###
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/melba-contessi-08/melba-contessi-08/output/snake.svg" alt="Snake animation" />
-
-###
